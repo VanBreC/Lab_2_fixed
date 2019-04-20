@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Lab_2_Fixed
+namespace ExpenseIt
 {
     /// <summary>
     /// Interaction logic for App.xaml
